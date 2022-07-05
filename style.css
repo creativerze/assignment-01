@@ -1,0 +1,19 @@
+body{
+  border: 0;
+}
+
+.header-section{
+  background-image: url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.header-area{
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+}
+.header-section-button{
+
+}

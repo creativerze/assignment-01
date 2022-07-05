@@ -1,5 +1,5 @@
 body{
-  border: 0;
+  margin: 0;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -7,7 +7,7 @@ body{
   background-image: url(images/donation13.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 600px;
+  height: 625px;
 }
 
 .header-area{
@@ -15,6 +15,16 @@ body{
   padding-top: 100px;
   color: white;
 }
+
+.header-text{
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.header-paragraph{
+  padding-bottom: 40px;
+}
+
 .header-section-button{
   text-decoration: none;
   background-color: tomato;

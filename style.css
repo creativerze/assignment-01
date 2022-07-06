@@ -141,6 +141,50 @@ body{
   width: 18%;
 }
 
+.bonus-section{
+  color: white;
+  background-image: url(images/donation5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-bonus{
+  display: flex;
+  margin-top: 100px;
+  padding-bottom: 50px;
+}
+
+.child-bonus-first{
+  width: 50%;
+  padding: 100px;
+}
+
+.bonus-button{
+  margin-top: 60px;
+}
+
+.bonus-section-button{
+  text-decoration: none;
+  background-color: tomato;
+  color: white;
+  padding: 13px 30px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+.child-bonus-second{
+  width: 50%;
+  background-color: rgb(238, 130, 91);
+  height: 250px;
+  margin: 135px 0px 30px 30px;
+  padding: 20px 30px;
+}
+
+.bonus-heading{
+  text-align: center;
+}
+
 .full-email-section{
   margin-top: 120px;
   margin-bottom: 100px;

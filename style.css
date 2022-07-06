@@ -108,7 +108,7 @@ body{
   display: flex;
   margin-left: 150px;
   margin-right: 150px;
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
 .child-our-donate-first{
@@ -143,6 +143,7 @@ body{
 
 .full-email-section{
   margin-top: 120px;
+  margin-bottom: 100px;
 }
 
 .email-section{
@@ -178,9 +179,16 @@ body{
 }
 
 
+footer{
+  text-align: center;
+  color: white;
+  background-color: rgb(12, 12, 12);
+}
 
+.footer-section{
+  padding: 20px;
+}
 
-
-.margin{
-  margin-top: 500px;
+.footer-section h2{
+  color: tomato;
 }
